@@ -19,7 +19,7 @@
 ---
 
 ## 🤖 BOT TELEGRAM AUTO ORDER AKUN VPN 🤖
-> “BOT ini dirancang sesederhana mungkin untuk memudahkan para penggunanya”
+> “BOT Auto Order akun VPN ini dirancang Sesederhana mungkin untuk memudahkan para penggunanya”
 
 ## 💻 Tech Stack & Tools
 
